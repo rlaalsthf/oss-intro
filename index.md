@@ -22,11 +22,11 @@
 ---
 
 ## 3. 교육 
-* **광운대학교 (Kwangwoon University)** | 2025.03 - 2029.02 
+* **광운대학교 (Kwangwoon University)** ( 2025.03 - 2029.02 )
     * **주전공:** 정보융합학부 (데이터사이언스 전공)
     * **복수전공:** 미디어커뮤니케이션학부 (인터랙티브 미디어커뮤니케이션 전공)
     * **핵심 역량:** 데이터 분석 기반 문제 정의, 서비스 아키텍처 이해, UX/UI 설계 및 디지털 스토리텔링
-* **University of Nevada, Las Vegas (미국)** | 2027.08 - 2027.12 (교환학생)
+* **University of Nevada, Las Vegas (미국)** ( 2027.08 - 2027.12 (교환학생) )
     * **이수 프로그램:** Engineering and Technology Management
     * **주요 과목:** Product Design & Development, UX Research, Technical Communication
 
@@ -64,6 +64,7 @@
 ---
 
 ## 7. 수상 경력 
+
 | **대회**                                              | **수상 날짜** |
 |:---------------                                       |:--------      |
 | **광운대학교 공학설계 경진대회 장려상**                | 2025.12      | 
