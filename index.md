@@ -31,11 +31,11 @@
 ---
 
 ## 4. 인턴 경력 
-* **메가스터디교육 | 서비스/앱 기획 인턴** | 2028.01 – 2028.06
+* **메가스터디교육** | **서비스/앱 기획 인턴** | 2028.01 – 2028.06
     
-* **Tech-Flow Solutions | PM Intern** | 2028.08 – 2028.12
+* **Tech-Flow Solutions** | **PM Intern** | 2028.08 – 2028.12
 
-* **LINE Yahoo Japan | Global Service Planning Intern** | 2029.06 – 2029.08
+* **LINE Yahoo Japan** | **Global Service Planning Intern** | 2029.06 – 2029.08
     
 
 ---
